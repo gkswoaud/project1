@@ -1,0 +1,62 @@
+
+#guk > li{
+	margin-left:50px;
+	font-size:11px;
+}
+
+#sub_goods{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#sub_goods > article.sub_goods_article {
+	margin-bottom: 10px;
+	padding: 20px;
+	border: 1px solid black;
+
+}
+
+
+#bookInfo1 {
+	width: 760px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#bookInfo1 > #bookImg {
+	width: 260px;
+	float: left;	
+}
+
+#bookInfo1 > #bookInformation {
+	width: 500px;
+	float: right;
+
+}
+
+
+td.big {
+	padding:20px;
+}
+
+#bookHeader{
+	border-collapse: sparate;
+	border-spacing: 10px;
+}
+
+td.header {
+	width: 60px; 
+}
+
+
+
+#bookInformation > ul {overflow:hidden;}
+#bookInformation > ul > li {float:left; padding:10px;}
+#bookInformation > ul > li > a{
+	display:block;
+	padding: 10px 20px;
+	background-color:deepskyblue;
+	font-weight:bold;
+	color: white;
+}
